@@ -1,0 +1,15 @@
+/target/
+/history/
+/gradle/
+/build/
+/.idea/
+/.gradle/
+gradlew
+gradlew.bat
+*.apk
+*.ipa
+*.exe
+*.sh
+*.log
+/bin/
+
